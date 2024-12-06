@@ -26,7 +26,7 @@ This project is part of PwC's Power BI Virtual Case Experience, completed during
 - How do promotions by age vary across different job role?.
 
 ### Skills & Tools
-- **Tools:** Python, Excel
+- **Tools:** Power BI
 - **Skills:**
    <br> - Data Cleaning and Wrangling
    <br> - Dashboards 
